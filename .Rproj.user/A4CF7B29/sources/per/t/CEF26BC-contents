@@ -1,0 +1,33 @@
+initial_banner <- function() {
+  rstudioapi::insertText("##------------------------------------------------------------------------------#\n")
+  rstudioapi::insertText("## Nombre del Script:  ----------------------------------------------------------\n")
+  rstudioapi::insertText("##  \n")
+  rstudioapi::insertText("## Propósito del Script:  \n")
+  rstudioapi::insertText("##  \n")
+  rstudioapi::insertText("## Autor: Daniel S. Parra González \n")
+  rstudioapi::insertText("## Fecha de creación:  \n")
+  rstudioapi::insertText("##  \n")
+  rstudioapi::insertText("## Copyright (c) Daniel S. Parra, 2020 \n")
+  rstudioapi::insertText("##  \n")
+  rstudioapi::insertText("## Email: dsparrag@unal.edu.co \n")
+  rstudioapi::insertText("##------------------------------------------------------------------------------#\n")
+}
+
+banner_edit <- function() {
+  rstudioapi::insertText("#-------------------------------------------------------------------------------#\n")
+  rstudioapi::insertText("# -----------------------------------------------------\n")
+  rstudioapi::insertText("#-------------------------------------------------------------------------------#\n")
+
+}
+
+separator_edit <- function() {
+  rstudioapi::insertText("#-------------------------------------------------------------------------------#\n")
+}
+
+comment_edit <- function() {
+  rstudioapi::insertText("#................................................................................\n")
+  rstudioapi::insertText("#   \n")
+  rstudioapi::insertText("#................................................................................\n")
+}
+
+

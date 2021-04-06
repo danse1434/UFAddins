@@ -1,0 +1,4 @@
+Name: Banner Edit
+Description: Crea un banner interactivo para adicionar informacion sobre titulo
+Binding: banner_edit
+Interactive: false
