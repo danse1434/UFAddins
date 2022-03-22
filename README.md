@@ -18,34 +18,34 @@ Se recomienda utilizar los siguientes comandos como Add-ins para RStudio
 
 ## Estructura
 
-Los elementos de este paquete tienen la siguiente estructura:
+Los elementos de este paquete tienen la siguiente estructura (ejemplos):
 
 ### Banner inicial de título
 
 `#' --- `
-`#' title: 'EDA Ventas Históricas Anual' `
-`#' subtitle: 'Análisis Exploratorio de Datos' `
-`#' author: `
-`#'      - name: Daniel S. Parra G.`
-`#'        email: 'dsparra@misalud.gov.co' `
-`#'        institute: FNE`
-`#' institute: `
-`#'      - FNE: Misión PRI 1901 - Fondo Nacional de Estupefacientes `
+`#' title: 'Título detallado' `
+`#' subtitle: 'Subtítulo detallado' `
+`#' name: Daniel S. Parra G.`
+`#' email: 'dsparra@misalud.gov.co' `
+`#' institute: FNE - Misión PRI 1901 - Fondo Nacional de Estupefacientes `
 `#' abstract: Análisis Exploratorio de Datos (EDA) de ventas históricas, series de tiempo de ventas por año y mes`
-`#' date: '27-04-2021' `
+`#' date: 'dd-mm-yyyy' `
 `#' output: `
-`#'    html_document: default`
-`#'    pdf_document: default`
+`#'    - html_document: default`
+`#'    - pdf_document: default`
 `#' always_allow_html: true`
-`#' ---   
+`#' ---   `
 
 ### Banner
 `#'-------------------------------------------------------------------------------`  
-`# 1. ------------------`  
+`# 1. Sección ------------------`  
 `#'-------------------------------------------------------------------------------`  
+`#' `  
+`#' # 1. Sección `  
+`#' `  
 
 ### Comentario 
 `#' Comentario `   
 
 ### Separador de línea
-`#'-------------------------------------------------------------------------------`  
+`#' `  
