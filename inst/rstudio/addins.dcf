@@ -1,0 +1,24 @@
+Name: Adiciona Banner
+Description: Crea un banner interactivo para adicionar informacion sobre titulo
+Binding: banner_edit
+Interactive: false
+
+Name: Adiciona Banner 2
+Description: Crea un banner interactivo para adicionar informacion sobre titulo - afiliación UNAL
+Binding: banner_edit_2
+Interactive: false
+
+Name: Adiciona Separador
+Description: Crea un separador para adicionar informacion sobre titulo
+Binding: separator_edit
+Interactive: false
+
+Name: Adiciona Comentario
+Description: Crea un separador para adicionar comentarios
+Binding: comment_edit
+Interactive: false
+
+Name: Banner inicial de titulo
+Description: Crea un baner inicial con informacion del documento
+Binding: initial_banner
+Interactive: false

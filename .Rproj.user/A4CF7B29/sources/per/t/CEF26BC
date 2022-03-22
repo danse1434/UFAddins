@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586589831152.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4191305227",
+    "id" : "CEF26BC",
+    "lastKnownWriteTime" : 1586589853,
+    "last_content_update" : 1586589853928,
+    "path" : "C:/Users/ACER/Desktop/Paquete/UFaddins/R/snippets.R",
+    "project_path" : "R/snippets.R",
+    "properties" : {
+        "cursorPosition" : "29,28",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

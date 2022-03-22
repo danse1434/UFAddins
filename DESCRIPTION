@@ -1,0 +1,11 @@
+Package: UFaddins
+Type: Package
+Title: Adicionar banners para RStudio
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Daniel Parra Gonzalez <dsparra@unal.edu.co>
+Description: Este es un paquete para organizar mejor los scripts en Rstudio
+    RStudio
+License: None
+Encoding: UTF-8
+LazyData: true
